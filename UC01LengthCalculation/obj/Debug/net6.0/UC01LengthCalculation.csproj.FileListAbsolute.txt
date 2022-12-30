@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\LineComarisonProblem\UC01LengthCalculation\obj\Debug\net6.0\UC01LengthCalculation.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\LineComarisonProblem\UC01LengthCalculation\obj\Debug\net6.0\UC01LengthCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\LineComarisonProblem\UC01LengthCalculation\obj\Debug\net6.0\UC01LengthCalculation.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\LineComarisonProblem\UC01LengthCalculation\obj\Debug\net6.0\UC01LengthCalculation.AssemblyInfo.cs
+D:\DLS-RFP-231\LineComarisonProblem\UC01LengthCalculation\obj\Debug\net6.0\UC01LengthCalculation.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\LineComarisonProblem\UC01LengthCalculation\bin\Debug\net6.0\UC01LengthCalculation.exe
+D:\DLS-RFP-231\LineComarisonProblem\UC01LengthCalculation\bin\Debug\net6.0\UC01LengthCalculation.deps.json
+D:\DLS-RFP-231\LineComarisonProblem\UC01LengthCalculation\bin\Debug\net6.0\UC01LengthCalculation.runtimeconfig.json
+D:\DLS-RFP-231\LineComarisonProblem\UC01LengthCalculation\bin\Debug\net6.0\UC01LengthCalculation.dll
+D:\DLS-RFP-231\LineComarisonProblem\UC01LengthCalculation\bin\Debug\net6.0\UC01LengthCalculation.pdb
+D:\DLS-RFP-231\LineComarisonProblem\UC01LengthCalculation\obj\Debug\net6.0\UC01LengthCalculation.dll
+D:\DLS-RFP-231\LineComarisonProblem\UC01LengthCalculation\obj\Debug\net6.0\refint\UC01LengthCalculation.dll
+D:\DLS-RFP-231\LineComarisonProblem\UC01LengthCalculation\obj\Debug\net6.0\UC01LengthCalculation.pdb
+D:\DLS-RFP-231\LineComarisonProblem\UC01LengthCalculation\obj\Debug\net6.0\UC01LengthCalculation.genruntimeconfig.cache
+D:\DLS-RFP-231\LineComarisonProblem\UC01LengthCalculation\obj\Debug\net6.0\ref\UC01LengthCalculation.dll
