@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\LineComarisonProblem\CompareTwoLines\obj\Debug\net6.0\CompareTwoLines.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\LineComarisonProblem\CompareTwoLines\obj\Debug\net6.0\CompareTwoLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\LineComarisonProblem\CompareTwoLines\obj\Debug\net6.0\CompareTwoLines.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\LineComarisonProblem\CompareTwoLines\obj\Debug\net6.0\CompareTwoLines.AssemblyInfo.cs
+D:\DLS-RFP-231\LineComarisonProblem\CompareTwoLines\obj\Debug\net6.0\CompareTwoLines.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\LineComarisonProblem\CompareTwoLines\bin\Debug\net6.0\CompareTwoLines.exe
+D:\DLS-RFP-231\LineComarisonProblem\CompareTwoLines\bin\Debug\net6.0\CompareTwoLines.deps.json
+D:\DLS-RFP-231\LineComarisonProblem\CompareTwoLines\bin\Debug\net6.0\CompareTwoLines.runtimeconfig.json
+D:\DLS-RFP-231\LineComarisonProblem\CompareTwoLines\bin\Debug\net6.0\CompareTwoLines.dll
+D:\DLS-RFP-231\LineComarisonProblem\CompareTwoLines\bin\Debug\net6.0\CompareTwoLines.pdb
+D:\DLS-RFP-231\LineComarisonProblem\CompareTwoLines\obj\Debug\net6.0\CompareTwoLines.dll
+D:\DLS-RFP-231\LineComarisonProblem\CompareTwoLines\obj\Debug\net6.0\refint\CompareTwoLines.dll
+D:\DLS-RFP-231\LineComarisonProblem\CompareTwoLines\obj\Debug\net6.0\CompareTwoLines.pdb
+D:\DLS-RFP-231\LineComarisonProblem\CompareTwoLines\obj\Debug\net6.0\CompareTwoLines.genruntimeconfig.cache
+D:\DLS-RFP-231\LineComarisonProblem\CompareTwoLines\obj\Debug\net6.0\ref\CompareTwoLines.dll
